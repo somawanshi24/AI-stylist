@@ -1,0 +1,7 @@
+{
+  "name": "Virtual Wardrobe Stylist",
+  "description": "An AI-powered fashion assistant that uses Gemini Nano Banana to visualize new styles and outfits based on your photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
